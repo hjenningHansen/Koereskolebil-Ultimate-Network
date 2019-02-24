@@ -1,0 +1,4 @@
+Download Link for Windscreen Wipers 1.6
+https://de.gta5-mods.com/scripts/car-wipers
+
+Copy and Paste the AnimatedWipers (Foulder) and AnimatedWipers.dll (.dll File) into your Script foulder.
